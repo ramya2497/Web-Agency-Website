@@ -1,0 +1,50 @@
+$fontpath: '../../../assets/fonts/Mukta';
+$fontpath: '../../../assets/fonts/averta';
+
+$fontName: Mukta;
+
+// ::Font family::
+$IT-font-thin: '#{$fontName}thin', sans-serif;
+$IT-font-extralight: '#{$fontName}extralight', sans-serif;
+$IT-font-light: '#{$fontName}light', sans-serif;
+$IT-font-regular: '#{$fontName}regular', sans-serif;
+$IT-font-medium: '#{$fontName}medium', sans-serif;
+$IT-font-semi-bold: '#{$fontName}semibold', sans-serif;
+$IT-font-bold: '#{$fontName}bold', sans-serif;
+
+
+$seperator-x           : 4rem;
+$seperator            : 3rem;
+$seperator-lg         : 2.75rem;
+$seperator-md         : 2.5rem;
+
+// Font size
+$font-title           : 40px;
+$font-heading         : 34px;
+$font-sub-heading-md  : 23px;
+$font-sub-heading     : 26px;
+$font-body            : 18px;
+$font-description     : 16px;
+$font-foot-note       : 14px;
+$font-foot-note-sm    : 11px;
+
+$font-small           : 12px;
+$font-xsmall          : 14px;
+$font-medium          : 16px;
+$font-xmedium         : 18px;
+$font-large           : 20px;
+$font-xlarge          : 22px;
+
+$font-13              : 13px;
+$font-15              : 15px;
+
+// Icon size
+$icon-sm              : 14px;
+$icon-xsm             : 16px;
+$icon-md              : 18px;
+$icon-xmd             : 23px;
+$icon-lg              : 30px;
+$icon-xlg             : 36px;
+$icon-xxl             : 42px;
+$icon-xxxl            : 48px;
+$icon-xxxxl           : 64px;
